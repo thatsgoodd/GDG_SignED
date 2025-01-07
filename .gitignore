@@ -1,0 +1,22 @@
+# === Spring ===
+.idea/
+*.iml
+.project
+target/
+build/
+
+# === React ===
+node_modules/
+build/
+.env
+
+# === Python ===
+__pycache__/
+venv/
+.env
+.ipynb_checkpoints/
+
+# === 공통 ===
+.DS_Store
+.vscode/
+Thumbs.db
