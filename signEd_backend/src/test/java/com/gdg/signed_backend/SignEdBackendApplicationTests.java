@@ -1,13 +1,13 @@
-package com.gdg.gdg_signed;
+package com.gdg.signed_backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GdgSignEdApplicationTests {
+class SignEdBackendApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
